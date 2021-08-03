@@ -4,9 +4,10 @@ echo 'hello php!';
 echo "\n";
 
 
-$array_month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+$hello = "HITOSHI TSUNODA";
+$world = "'s World";
+echo $hello $world;
 
-echo $array_month ["7"];
 
 
 
