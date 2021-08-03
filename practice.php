@@ -4,8 +4,10 @@ echo 'hello php!';
 echo "\n";
 
 
-$a =3;
-$b =7;
-echo $a + $b;
+$array_month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+echo $array_month ["7"];
+
+
 
 echo "\n";
